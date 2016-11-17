@@ -1,5 +1,5 @@
 Music Group Test
 ================
 
-Install MySQL database, create a music group database
+Installs MySQL database, creates a music group database
 and backup to /root/mysql_backup folder 
